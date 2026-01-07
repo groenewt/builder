@@ -1,4 +1,6 @@
 # Builder
+**THIS IS A POC THAT WILL BE INTEGRATED INTO 'FACTORY'**
+**Signifcant amounts of infrastructure do exist but this repo seeks to distill 'the core' as 'best as possible'**
 CURRENT STATUS:
 - Ranger
 -- Custom Patch that accounts for:
