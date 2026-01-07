@@ -76,7 +76,8 @@ Yeah so very basic POC and will be used for testing.
 ./builder.sh
 
 #launch docker containers
-./docker.sh
+#@TODO: :( 
+#./docker.sh
 ```
 
 
